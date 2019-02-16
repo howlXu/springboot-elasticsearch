@@ -1,0 +1,5 @@
+# springboot-elasticsearch
+springBoot全文检索
+springBoot的版本要和elasticsearch中间件的版本对应，不然代码跑不了，这个项目用的是1.5.8.RELEASE版本，对应的elasticSearch版本是elasticsearch-2-4-6
+elasticsearch本机运行很简单，下载zip包，解压，运行bin目录下的elasticsearch.bat批处理文件就可以了。
+我直接把elasticsearch一并丢到项目里了。直接运行就OK。
